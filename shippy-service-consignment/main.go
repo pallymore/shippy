@@ -7,12 +7,12 @@ import (
 	"sync"
 
 	// Import the generated protobuf code
-	pb "github.com/pallymore/shippy-service-consignment/proto/consignment"
+	pb "github.com/pallymore/shippy/shippy-service-consignment/proto/consignment"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )
 
-const port := ":50051"
+const port = ":50051"
 
 type repository interface {
 	Create(*pb.Consignment) (*pb.Consignment, error)
