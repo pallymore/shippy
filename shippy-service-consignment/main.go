@@ -5,7 +5,7 @@ import (
 	"log"
 
 	// Import the generated protobuf code
-	"github.com/micro/go-micro/v2"
+	micro "github.com/micro/go-micro/v2"
 	pb "github.com/pallymore/shippy/shippy-service-consignment/proto/consignment"
 )
 
@@ -60,7 +60,7 @@ func main() {
 
 	service := micro.NewService(
 		// This name must match the package name given in your protobuf definition
-		micro.Name("shippy.service.consignment"),
+		micro.Name("shippy.consignment.service"),
 	)
 
 	service.Init()
