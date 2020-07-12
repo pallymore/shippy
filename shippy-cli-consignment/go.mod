@@ -2,8 +2,6 @@ module github.com/pallymore/shippy/shippy-cli-consignment
 
 go 1.14
 
-replace github.com/pallymore/shippy/shippy-service-consignment => ../shippy-service-consignment
-
 replace google.golang.org/grpc => google.golang.org/grpc v1.26.0
 
 require (

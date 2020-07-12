@@ -348,6 +348,9 @@ github.com/oracle/oci-go-sdk v7.0.0+incompatible/go.mod h1:VQb79nF8Z2cwLkLS35ukw
 github.com/ovh/go-ovh v0.0.0-20181109152953-ba5adb4cf014/go.mod h1:joRatxRJaZBsY3JAOEMcoOp05CnZzsx4scTxi95DHyQ=
 github.com/oxtoacart/bpool v0.0.0-20190530202638-03653db5a59c h1:rp5dCmg/yLR3mgFuSOe4oEnDDmGLROTvMragMUXpTQw=
 github.com/oxtoacart/bpool v0.0.0-20190530202638-03653db5a59c/go.mod h1:X07ZCGwUbLaax7L0S3Tw4hpejzu63ZrrQiUe6W0hcy0=
+github.com/pallymore/shippy v0.0.0-20200712014547-abdb0c48f959 h1:zFkfpOLSO2fnOsSRH4B8F048TNdBrXJyliKzC/p0jYI=
+github.com/pallymore/shippy/shippy-service-consignment v0.0.0-20200712014547-abdb0c48f959 h1:qo58mCI24bkSxftO7+UYg3nuxpDT0SbMzasrUO1X+Tc=
+github.com/pallymore/shippy/shippy-service-consignment v0.0.0-20200712014547-abdb0c48f959/go.mod h1:zjATUB/rlsxzM2gOm0RLtNfjcPFaF9HnlbjDr6HIGfU=
 github.com/patrickmn/go-cache v2.1.0+incompatible h1:HRMgzkcYKYpi3C8ajMPV8OFXaaRUnok+kx1WdO15EQc=
 github.com/patrickmn/go-cache v2.1.0+incompatible/go.mod h1:3Qf8kWWT7OJRJbdiICTKqZju1ZixQ/KpMGzzAfe6+WQ=
 github.com/pelletier/go-toml v1.2.0/go.mod h1:5z9KED0ma1S8pY6P1sdut58dfprrGBbd/94hg7ilaic=
